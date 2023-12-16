@@ -1,0 +1,22 @@
+
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "^18.18"
+  },
+  
+  "main": "index.js",
+  "author": "Parvinder",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParvinderBabar/ProjectHangman.git"
+  
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  
+  }
+}
+
