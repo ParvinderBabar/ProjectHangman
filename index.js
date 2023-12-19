@@ -1,4 +1,4 @@
-import prompt from 'readline-sync';
+import prompt  from 'readline-sync';
 import wordBank from './word-bank.js';
 
 const MAX_WRONG_GUESSES = 6;
